@@ -1,0 +1,58 @@
+2020-01-04 6:59:00 - PHP Warning:  fopen(/opt/lampp/htdocs/ecomm/project/system/storage/session//sess_c4f8b28beeba33b5621cf470f4): failed to open stream: Permission denied in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 29
+2020-01-04 6:59:00 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 31
+2020-01-04 6:59:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 33
+2020-01-04 6:59:00 - PHP Warning:  fflush() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 35
+2020-01-04 6:59:00 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 37
+2020-01-04 6:59:00 - PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 39
+2020-01-04 6:59:20 - PHP Warning:  fopen(/opt/lampp/htdocs/ecomm/project/system/storage/session//sess_c4f8b28beeba33b5621cf470f4): failed to open stream: Permission denied in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 29
+2020-01-04 6:59:20 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 31
+2020-01-04 6:59:20 - PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 33
+2020-01-04 6:59:20 - PHP Warning:  fflush() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 35
+2020-01-04 6:59:20 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 37
+2020-01-04 6:59:20 - PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 39
+2020-01-04 6:59:26 - PHP Warning:  fopen(/opt/lampp/htdocs/ecomm/project/system/storage/session//sess_c4f8b28beeba33b5621cf470f4): failed to open stream: Permission denied in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 29
+2020-01-04 6:59:26 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 31
+2020-01-04 6:59:26 - PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 33
+2020-01-04 6:59:26 - PHP Warning:  fflush() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 35
+2020-01-04 6:59:26 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 37
+2020-01-04 6:59:26 - PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 39
+2020-01-04 6:59:26 - PHP Warning:  fopen(/opt/lampp/htdocs/ecomm/project/system/storage/session//sess_c4f8b28beeba33b5621cf470f4): failed to open stream: Permission denied in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 29
+2020-01-04 6:59:26 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 31
+2020-01-04 6:59:26 - PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 33
+2020-01-04 6:59:26 - PHP Warning:  fflush() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 35
+2020-01-04 6:59:26 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 37
+2020-01-04 6:59:26 - PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 39
+2020-01-04 7:00:19 - PHP Warning:  fopen(/opt/lampp/htdocs/ecomm/project/system/storage/session//sess_c4f8b28beeba33b5621cf470f4): failed to open stream: Permission denied in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 29
+2020-01-04 7:00:19 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 31
+2020-01-04 7:00:19 - PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 33
+2020-01-04 7:00:19 - PHP Warning:  fflush() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 35
+2020-01-04 7:00:19 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 37
+2020-01-04 7:00:19 - PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 39
+2020-01-04 7:00:56 - PHP Warning:  fopen(/opt/lampp/htdocs/ecomm/project/system/storage/session//sess_c4f8b28beeba33b5621cf470f4): failed to open stream: Permission denied in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 29
+2020-01-04 7:00:56 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 31
+2020-01-04 7:00:56 - PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 33
+2020-01-04 7:00:56 - PHP Warning:  fflush() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 35
+2020-01-04 7:00:56 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 37
+2020-01-04 7:00:56 - PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 39
+2020-01-04 7:01:15 - PHP Warning:  fopen(/opt/lampp/htdocs/ecomm/project/system/storage/session//sess_c4f8b28beeba33b5621cf470f4): failed to open stream: Permission denied in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 29
+2020-01-04 7:01:15 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 31
+2020-01-04 7:01:15 - PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 33
+2020-01-04 7:01:15 - PHP Warning:  fflush() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 35
+2020-01-04 7:01:15 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 37
+2020-01-04 7:01:15 - PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 39
+2020-01-04 7:01:53 - PHP Warning:  fopen(/opt/lampp/htdocs/ecomm/project/system/storage/session//sess_c4f8b28beeba33b5621cf470f4): failed to open stream: Permission denied in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 29
+2020-01-04 7:01:53 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 31
+2020-01-04 7:01:53 - PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 33
+2020-01-04 7:01:53 - PHP Warning:  fflush() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 35
+2020-01-04 7:01:53 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 37
+2020-01-04 7:01:53 - PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /opt/lampp/htdocs/ecomm/project/system/library/session/file.php on line 39
+2020-01-04 7:04:11 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'ecomm' in /opt/lampp/htdocs/ecomm/project/system/library/db/mysqli.php on line 7
+2020-01-04 7:04:11 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /opt/lampp/htdocs/ecomm/project/system/library/db/mysqli.php on line 10
+2020-01-04 7:04:11 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /opt/lampp/htdocs/ecomm/project/system/library/db/mysqli.php on line 10
+2020-01-04 7:04:11 - PHP Notice:  Undefined variable: mysql in /opt/lampp/htdocs/ecomm/project/install/controller/install/step_3.php on line 280
+2020-01-04 7:04:11 - PHP Notice:  Trying to get property 'connect_error' of non-object in /opt/lampp/htdocs/ecomm/project/install/controller/install/step_3.php on line 280
+2020-01-04 7:04:35 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'ecomm' in /opt/lampp/htdocs/ecomm/project/system/library/db/mysqli.php on line 7
+2020-01-04 7:04:35 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /opt/lampp/htdocs/ecomm/project/system/library/db/mysqli.php on line 10
+2020-01-04 7:04:35 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /opt/lampp/htdocs/ecomm/project/system/library/db/mysqli.php on line 10
+2020-01-04 7:04:35 - PHP Notice:  Undefined variable: mysql in /opt/lampp/htdocs/ecomm/project/install/controller/install/step_3.php on line 280
+2020-01-04 7:04:35 - PHP Notice:  Trying to get property 'connect_error' of non-object in /opt/lampp/htdocs/ecomm/project/install/controller/install/step_3.php on line 280
